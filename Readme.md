@@ -20,4 +20,4 @@ python test.py
 
 The output should be this:
 
-![](.result.png) 
+![](./result.png) 
