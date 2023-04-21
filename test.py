@@ -1,5 +1,8 @@
+# Jesus Tordesillas Torres
+
 import numpy as np
 from mayavi import mlab
+import copy
 
 num_points=200j
 x, y, z = np.mgrid[-3:1:num_points, -3:1:num_points, -3:1:num_points]
@@ -18,7 +21,7 @@ colors=[
 
 conditions_processed=[]
 for i in range(len(conditions)):
-    cond_i=conditions[i]
+    cond_i=copy.deepcopy(conditions[i])
     for j in range(len(conditions)):
         if (i==j):
             continue
