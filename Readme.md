@@ -1,6 +1,6 @@
-# RegionPlot3d for Python #
+# RegionPlot3D for Python #
 
-Simple example of how to get a similar result to Mathematica's [RegionPlot3d](https://reference.wolfram.com/language/ref/RegionPlot3D.html) function
+Simple example of how to get a similar result to Mathematica's [RegionPlot3D](https://reference.wolfram.com/language/ref/RegionPlot3D.html) function
 
 ## Instruction:
 
