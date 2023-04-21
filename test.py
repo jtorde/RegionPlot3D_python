@@ -6,8 +6,6 @@ x, y, z = np.mgrid[-3:1:num_points, -3:1:num_points, -3:1:num_points]
 
 ##############################################FIRST WAY
 
-print(f"x.shape={x.shape}")
-
 conditions=[
     x**2 + y**2 - z,        #<=0
     x**2 + y**2 + z**2 -1   #<=0

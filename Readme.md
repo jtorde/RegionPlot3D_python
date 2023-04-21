@@ -4,7 +4,7 @@ Simple example of how to get a similar result to Mathematica's [RegionPlot3d](ht
 
 ## Instruction:
 
-First install Mayavi:
+First install [Mayavi](https://docs.enthought.com/mayavi/mayavi/):
 
 ```bash
 pip install mayavi
