@@ -20,4 +20,4 @@ python test.py
 
 The output should be this:
 
-![](./mader/imgs/result.png) 
+![](.result.png) 
