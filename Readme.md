@@ -1,4 +1,4 @@
-# RegionPlot3D for Python #
+# Plotting 3D inequalities in Python #
 
 Simple example of how to get a similar result to Mathematica's [RegionPlot3D](https://reference.wolfram.com/language/ref/RegionPlot3D.html) function
 
